@@ -1,0 +1,13 @@
+{
+	"image": "mcr.microsoft.com/devcontainers/universal:2",
+	"features": {
+		"ghcr.io/sliekens/devcontainer-features/codex:1": {}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"Vizards.deepseek-v4-for-copilot"
+			]
+		}
+	}
+}
