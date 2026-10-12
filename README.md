@@ -1,5 +1,3 @@
-[![Dev Environment Prebuilds](https://github.com/eTcilopp/temp-functions-from-zero/actions/workflows/codespaces/create_codespaces_prebuilds/badge.svg)](https://github.com/eTcilopp/temp-functions-from-zero/actions/workflows/codespaces/create_codespaces_prebuilds)
-
 # temp-functions-from-zero
 A repo to learn functions
 
