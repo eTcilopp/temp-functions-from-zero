@@ -6,7 +6,8 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"Vizards.deepseek-v4-for-copilot"
+				"Vizards.deepseek-v4-for-copilot",
+				"ms-vscode.makefile-tools"
 			]
 		}
 	}
