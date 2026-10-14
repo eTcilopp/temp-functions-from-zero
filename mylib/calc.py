@@ -18,7 +18,7 @@ def divide(a, b):
 
 
 def power(a, b):
-    return a ** b
+    return a**b
 
 
 def square_root(a):
@@ -35,4 +35,3 @@ def is_even(a):
 
 def is_odd(a):
     return a % 2 != 0
-
